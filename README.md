@@ -21,3 +21,27 @@ Supports Windows operating system.
 
 > Note:
 This script is intended for educational and personal use only. Make sure to adjust the notification interval and customize the script as needed.
+
+## Method to make it run like auto start app
+
+Create a Batch Script:
+
+Open a text editor (like Notepad) on your Windows computer.
+
+Copy and paste the following code into the text editor:
+
+```batch
+@echo off
+start pythonw.exe "C:\StartUp-Scripts\messages_notifier.py"
+```
+Replace "C:\StartUp-Scripts\messages_notifier.py" with the actual path to your Python script.
+
+Save the file with a .bat extension, such as RunScript.bat.
+
+Include the Batch Script in Startup:
+
+Press Win + R to open the Run dialog box.
+
+Type shell:startup and press Enter. This opens the Startup folder for your user account.
+
+Move the .bat file you created (e.g., RunScript.bat) to this Startup folder.
