@@ -32,9 +32,9 @@ Copy and paste the following code into the text editor:
 
 ```batch
 @echo off
-start pythonw.exe "C:\StartUp-Scripts\messages_notifier.py"
+start pythonw.exe "C:\Scripts\messages_notifier.py"
 ```
-Replace "C:\StartUp-Scripts\messages_notifier.py" with the actual path to your Python script.
+Replace "C:\Scripts\messages_notifier.py" with the actual path to your Python script.
 
 Save the file with a .bat extension, such as RunScript.bat.
 
