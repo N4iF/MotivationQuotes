@@ -4,10 +4,14 @@ The messages_notifier.py script is a Python program that fetches motivational qu
 
 ## How to Use:
 
-Clone or download this repository to your local machine.
-Install the required Python packages using pip install -r requirements.txt.
-Run the script using the command python messages_notifier.py.
+1. Clone or download this repository to your local machine.
+2. Install the required Python packages using `pip install -r requirements.txt`.
+3. Run the script using the command python messages_notifier.py.
 
+## Important step
+
+* change the path file for image in the python code at 17 line.
+  
 ## Features:
 
 Fetches motivational quotes from a public API.
