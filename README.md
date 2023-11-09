@@ -45,3 +45,6 @@ Press Win + R to open the Run dialog box.
 Type shell:startup and press Enter. This opens the Startup folder for your user account.
 
 Move the .bat file you created (e.g., RunScript.bat) to this Startup folder.
+
+## Picture for the script
+![alt text](https;//ibb.co/rvVnJ70)
