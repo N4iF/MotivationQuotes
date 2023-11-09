@@ -47,4 +47,4 @@ Type shell:startup and press Enter. This opens the Startup folder for your user 
 Move the .bat file you created (e.g., RunScript.bat) to this Startup folder.
 
 ## Picture for the script
-![Alt text](https://ibb.co/rvVnJ70](https://imageupload.io/ib/q0Qikf8siBaKLlJ_1699552709.jpeg)https://imageupload.io/ib/q0Qikf8siBaKLlJ_1699552709.jpeg)
+![Alt text](https://imageupload.io/ib/q0Qikf8siBaKLlJ_1699552709.jpeg)
